@@ -1,5 +1,5 @@
 ---
-title: متعلِّمٌ على سبيلِ نجاةٍ
+title: index
 created: 2023-08-10 19:55:36
 updated: 2024-11-14 10:11:15
 learnernotes: true
