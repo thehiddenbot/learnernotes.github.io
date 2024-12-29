@@ -2,6 +2,9 @@
 
 * {
   direction: rtl;
+  p {
+    line-height: 2rem;
+  }
 }
 
 figure[data-rehype-pretty-code-figure] * {
